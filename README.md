@@ -9,7 +9,7 @@ Whether you're watching a movie, a drama, or a YouTube clip, Vid2Voc makes it ea
 - 📥 Pull out Chinese subtitles  
 - 🈶 Learn the meaning and pronunciation  
 - 🧠 Practice and remember useful words  
-- 🔁 Review vocabulary through fun games  
+- 🔁 Add the necessary vocabulary to Anki  
 
 ### ✨ Who It’s For  
 - Chinese learners of all levels  
@@ -20,13 +20,11 @@ Whether you're watching a movie, a drama, or a YouTube clip, Vid2Voc makes it ea
 1. Upload a video or subtitle file  
 2. Extract and review the subtitles  
 3. Choose words you want to study  
-4. Learn and quiz yourself right inside the app  
 
 ### 📦 Features  
 - Works with Traditional or Simplified Chinese  
 - Pinyin and Zhuyin (Bopomofo) support  
 - Clean, intuitive interface  
-- Multiple learning modes (Memory, Speed, Guess)
 
 ### 💡 Why Vid2Voc?  
 Because watching is fun — and learning should be too.
